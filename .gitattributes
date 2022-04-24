@@ -1,2 +1,77 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Dannysmart personal site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img width="200" height="200" src="https://pbs.twimg.com/media/Cp6-ap-WEAES50I?format=jpg&name=small" alt="Daniel Onwusiri"></td>
+      <td>
+        <h1>Onwusiri Ifeanyi Daniel</h1>
+      <p><em>Founder and CTO of  <strong>DANNYSMART HUB</strong>.</em></p>
+        <p>i am an aspiring Web developer</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Books and Teaching</h3>
+  <ul>
+    <li>The Complete iOS App Development Bootcamp</li>
+    <li>The Complete Web Development Bootcamp</li>
+  </ul>
+  <h3>Work Experience</h3>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+    <tr>
+      <td>2010-2013</td>
+      <td>Lead developer Dannysmart Tech Hub</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Graphics Design Instructor OneDaCode Academy</td>
+    </tr>
+  </table>
+  <h3>Skills</h3>
+  <table border="1.5">
+    <tr>
+      <td>iOS Development</td>
+      <td> &#11088;&#11088;&#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td> &#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>Web Devlopment</td>
+      <td> &#11088;&#11088;&#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>Graphics Design</td>
+      <td> &#11088;&#11088;&#11088;</td>
+    </tr>
+  </table>
+  <h3><strong>Phone Contact</strong></h3>
+  <p>07088126004</p>
+  <p><strong>Residential Address</strong></p>
+  <p3>27 Somoye street,Omotoye Estate,Orile - Agege,Lagos</p3>
+  <p><strong>Email address</strong></p>
+  <p3>daniifeanyi4@gmail.com</p3>
+
+</body>
+
+</html>
